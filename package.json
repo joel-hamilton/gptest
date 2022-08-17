@@ -1,0 +1,19 @@
+{
+  "name": "gptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildWebsite": "mkdir docs && echo 'index page html' > docs/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-hamilton/gptest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-hamilton/gptest/issues"
+  },
+  "homepage": "https://github.com/joel-hamilton/gptest#readme"
+}
